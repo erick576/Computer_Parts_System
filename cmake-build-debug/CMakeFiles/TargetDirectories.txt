@@ -1,0 +1,6 @@
+C:/Users/Ericn/CLionProjects/Computer_Parts_System/cmake-build-debug/CMakeFiles/Computer_Parts_System.dir
+C:/Users/Ericn/CLionProjects/Computer_Parts_System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ericn/CLionProjects/Computer_Parts_System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Ericn/CLionProjects/Computer_Parts_System/cmake-build-debug/test/CMakeFiles/computer_parts_test.dir
+C:/Users/Ericn/CLionProjects/Computer_Parts_System/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Ericn/CLionProjects/Computer_Parts_System/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
